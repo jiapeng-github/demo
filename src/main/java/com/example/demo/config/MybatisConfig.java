@@ -17,8 +17,6 @@ import java.io.IOException;
 
 /**
  * mybatis配置
- * author : LYS
- * date : 2018/3/22 下午4:21
  */
 @Configuration
 @MapperScan(basePackages = "com.example.demo.mapper", sqlSessionFactoryRef = "sqlSessionFactory")
