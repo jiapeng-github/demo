@@ -1,0 +1,9 @@
+server:
+  port: 8080
+spring:
+  datasource:
+    druid:
+      url: jdbc:mysql://118.25.25.185:3306/test?useSSL=false
+      username: root
+      password: jiapeng89
+      driver-class-name: com.mysql.jdbc.Driver
