@@ -1,2 +1,3 @@
 Spring Boot  
-tk.mybaits
+tk.mybaits  
+redis
